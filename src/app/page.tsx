@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -116,7 +116,6 @@ export default function Home() {
               role: "CEO",
               company: "Global Enterprises",
               rating: 5,
-              testimonial: "Exceptional service and luxurious amenities. The spa treatments were world-class and the staff attention to detail was remarkable. Highly recommended for business travelers.",
               imageSrc: "https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Portrait of Sarah Johnson"
             },
@@ -126,7 +125,6 @@ export default function Home() {
               role: "Travel Writer",
               company: "Luxury Travel Magazine",
               rating: 5,
-              testimonial: "Grand Luxe sets the standard for luxury hospitality. The rooftop pool views are breathtaking and the fine dining experience exceeded all expectations.",
               imageSrc: "https://images.pexels.com/photos/34389929/pexels-photo-34389929.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Portrait of Michael Chen"
             },
@@ -136,7 +134,6 @@ export default function Home() {
               role: "Honeymooners",
               company: "Special Occasion",
               rating: 5,
-              testimonial: "Perfect for our honeymoon! The luxury suite was stunning and the concierge helped us plan unforgettable romantic experiences throughout the city.",
               imageSrc: "https://images.pexels.com/photos/5217854/pexels-photo-5217854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Portrait of Emily and David Rodriguez"
             },
@@ -146,7 +143,6 @@ export default function Home() {
               role: "Business Executive",
               company: "Tech Innovations Inc",
               rating: 5,
-              testimonial: "Outstanding hospitality and premium amenities. The business center facilities are top-notch and the location is perfect for corporate meetings.",
               imageSrc: "https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Portrait of Amanda Foster"
             }
